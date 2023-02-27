@@ -10,3 +10,6 @@ C:\Users\ITDept\Documents\Github Tutorial\Github Tutorial\GithubTutorial\obj\x86
 C:\Users\ITDept\Documents\Github Tutorial\V2\GithubTutorial\obj\x86\Debug\GithubTutorial.exe
 C:\Users\ITDept\Documents\Github Tutorial\V2\GithubTutorial\obj\x86\Debug\GithubTutorial.xml
 C:\Users\ITDept\Documents\Github Tutorial\V2\GithubTutorial\obj\x86\Debug\GithubTutorial.pdb
+C:\Users\ITDept\Documents\Github Tutorial\V3\GithubTutorial\obj\x86\Debug\GithubTutorial.exe
+C:\Users\ITDept\Documents\Github Tutorial\V3\GithubTutorial\obj\x86\Debug\GithubTutorial.xml
+C:\Users\ITDept\Documents\Github Tutorial\V3\GithubTutorial\obj\x86\Debug\GithubTutorial.pdb
